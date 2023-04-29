@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.greyImg {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
